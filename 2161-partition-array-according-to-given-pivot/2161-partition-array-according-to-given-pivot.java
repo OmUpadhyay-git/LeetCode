@@ -4,7 +4,6 @@ class Solution {
         int[] ans = new int[n];
         int index = 0;
 
-       
         for (int num : nums) {
             if (num < pivot) {
                 ans[index++] = num;

@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0905-sort-array-by-parity](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2540-minimum-common-value) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |

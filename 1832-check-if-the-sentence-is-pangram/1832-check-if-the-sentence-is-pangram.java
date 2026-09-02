@@ -1,8 +1,8 @@
 class Solution {
-    public boolean checkIfPangram(String sentence) {
+    public boolean checkIfPangram(String atc) {
         boolean[] seen = new boolean[26];
 
-        for (char ch : sentence.toCharArray()) {
+        for (char ch : atc.toCharArray()) {
             seen[ch - 'a'] = true;
         }
 

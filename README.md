@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0115-distinct-subsequences](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0115-distinct-subsequences](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0344-reverse-string) |
 | [1544-make-the-string-great](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1544-make-the-string-great) |

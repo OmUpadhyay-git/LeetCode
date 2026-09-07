@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0509-fibonacci-number) |
+| [0940-distinct-subsequences-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0344-reverse-string) |
+| [0940-distinct-subsequences-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1544-make-the-string-great](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1544-make-the-string-great) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Trie

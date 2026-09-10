@@ -170,10 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
 |  |
 | ------- |

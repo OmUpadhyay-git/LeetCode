@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2540-minimum-common-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2540-minimum-common-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -206,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->

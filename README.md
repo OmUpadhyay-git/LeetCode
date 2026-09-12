@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0155-min-stack) |
 | [1544-make-the-string-great](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0389-find-the-difference) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2540-minimum-common-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0389-find-the-difference) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Counting
 |  |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0520-detect-capital) |
 | [0940-distinct-subsequences-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0940-distinct-subsequences-ii) |

@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0509-fibonacci-number) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0189-rotate-array) |
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

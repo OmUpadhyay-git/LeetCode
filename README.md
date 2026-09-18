@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0835-image-overlap) |
 | [0905-sort-array-by-parity](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3903-smallest-stable-index-i) |

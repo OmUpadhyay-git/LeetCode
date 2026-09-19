@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0283-move-zeroes) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0139-word-break) |
+| [0229-majority-element-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0389-find-the-difference) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0164-maximum-gap) |
+| [0229-majority-element-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0389-find-the-difference) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0229-majority-element-ii) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -320,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->

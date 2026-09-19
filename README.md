@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0835-image-overlap) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -171,11 +173,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1544-make-the-string-great](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Prefix Sum
 |  |
 | ------- |

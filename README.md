@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0268-missing-number) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0268-missing-number) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0229-majority-element-ii) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0169-majority-element) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -333,5 +338,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->

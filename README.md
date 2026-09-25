@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1096-brace-expansion-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2706-buy-two-chocolates](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1096-brace-expansion-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1544-make-the-string-great](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0520-detect-capital) |
 | [0940-distinct-subsequences-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1544-make-the-string-great](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1544-make-the-string-great) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [1096-brace-expansion-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
@@ -348,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0229-majority-element-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->

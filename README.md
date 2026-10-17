@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2109-adding-spaces-to-a-string](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0835-image-overlap) |
+| [1572-matrix-diagonal-sum](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String Matching
 |  |

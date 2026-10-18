@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Brainteaser
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2109-adding-spaces-to-a-string](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -316,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
 |  |
@@ -369,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Sliding Window
 |  |
@@ -386,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0169-majority-element) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -440,4 +448,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->

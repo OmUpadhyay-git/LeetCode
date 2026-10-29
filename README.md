@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0389-find-the-difference) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Counting
 |  |
 | ------- |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/OmUpadhyay-git/LeetCode/tree/master/0835-image-overlap) |
 | [1572-matrix-diagonal-sum](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String Matching
 |  |
 | ------- |

@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3871-count-commas-in-range-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Combinatorics
 |  |
 | ------- |

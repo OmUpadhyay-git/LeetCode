@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2540-minimum-common-value) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |

@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3934-smallest-unique-subarray](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/OmUpadhyay-git/LeetCode/tree/master/2540-minimum-common-value) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -524,4 +527,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/OmUpadhyay-git/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/OmUpadhyay-git/LeetCode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
